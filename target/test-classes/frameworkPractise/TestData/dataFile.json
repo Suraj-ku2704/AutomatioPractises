@@ -1,0 +1,12 @@
+[
+    {
+        "userName": "surajunnikrishnan@gmail.com",
+        "PassWord": "Test@123",
+        "incorrectPassWord": "Tst@123",
+        "cardUserName": "Suraj",
+        "cvvNum": "123",
+        "countrySearchText": "ind",
+        "expectedCountry": "India"
+    }
+
+]
